@@ -1,0 +1,11 @@
+create a new folder on desktop
+create new test file inside the folder
+right click and choose git bash here
+to initialize we type
+   git init
+ to check if initialized we click view and choose show hidden
+
+to check status we write
+       git status
+to add to repo
+git add file txt
